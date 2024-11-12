@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Dhieddine Barhoumi
 
 
----
-
 ## 🚀 About Me
 
 - **👨‍🎓 Engineering Student**
 - **🔬 AI Researcher & Developer**
 - **🔍 Passionate about Autonomous Systems, AI, and Machine Learning**
+  
 ---
 
 ## 🌐 Connect With Me
@@ -17,16 +16,6 @@
 
 ---
 
-## 🧠 Currently Working On
-
-- **End-of-Studies Project:**  
-  **Development and application of machine learning methods for autonomous driving systems**  
-  Focused on **sensor data processing and fusion for autonomous vehicles** under the supervision of Mrs. Ben Said Salma.
-
-- **Certification in Cloud and Database Technologies:**  
-  Pursuing **Google Cloud Machine Learning Engineer**, **Microsoft Azure AI Engineer**, and **MongoDB certification** to deepen my cloud and data management skills.
-
----
 
 ## 💡 Looking to Collaborate On
 
@@ -68,17 +57,7 @@
 - [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-FF6F00?style=for-the-badge&logo=deeplearning-dot-ai&logoColor=white)](https://www.credly.com/badges/2c5ddcb1-a3ef-463d-b166-1552a561d336/public_url) - *Oct. 2023*
 - [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/dhieddinebarhoumi-9376/credentials/b8a7426f7fbcd9a2) - *Jun. 2023*
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-Professional%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://coursera.org/share/b321d57dfadadab4d75e696ef46c1817) - *Feb. 2024*
-
----
-
-
-
----
-
-## ⚡ Fun Fact
-
-I’m passionate about AI's potential to transform industries – from security and manufacturing to autonomous vehicles. In my spare time, I love exploring innovative applications and staying updated with the latest trends in AI.
-
+- 
 ---
 
 ## 💬 Ask Me About
