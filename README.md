@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dhieddine Barhoumi
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Dhieddine%20Barhoumi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhieddinebarhoumi/)](https://www.linkedin.com/in/dhieddinebarhoumi/)
-[![Gmail Badge](https://img.shields.io/badge/-Dhieddine_Barhoumi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhieddine.barhoumi@insat.ucar.tn)](mailto:dhieddine.barhoumi@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Dhieddine%20Barhoumi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barhoumi-dhieddine/)](https://www.linkedin.com/in/barhoumi-dhieddine/)
+[![Gmail Badge](https://img.shields.io/badge/-Dhieddine_Barhoumi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhieddine.barhoumi@insat.ucar.tn)](mailto:dhieddine.barhoumi@insat.ucar.tn)
 
 ---
 
