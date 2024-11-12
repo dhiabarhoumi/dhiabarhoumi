@@ -11,8 +11,8 @@ I'm an AI and machine learning enthusiast with a background in engineering. I ha
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhieddinebarhoumi/)
-- 📧 [Email](mailto:dhieddine.barhoumi@gmail.com)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/barhoumi-dhieddine/))
+- 📧 [Email](mailto:dhieddine.barhoumi@insat.ucar.tn)
 
 ---
 
@@ -29,9 +29,6 @@ I'm an AI and machine learning enthusiast with a background in engineering. I ha
 - **End-of-Studies Project:**  
   **Development and application of machine learning methods for autonomous driving systems**  
   Focused on **sensor data processing and fusion for autonomous vehicles** under the supervision of Mrs. Ben Said Salma.
-
-- **Research on Autonomous Navigation Using ROS2 and Reinforcement Learning:**  
-  Implementing **TD3 (Twin Delayed DDPG)** for robot navigation, using **ROS2, RViz, and Gazebo**.
 
 - **Certification in Cloud and Database Technologies:**  
   Pursuing **Google Cloud Machine Learning Engineer**, **Microsoft Azure AI Engineer**, and **MongoDB certification** to deepen my cloud and data management skills.
@@ -81,44 +78,7 @@ I'm an AI and machine learning enthusiast with a background in engineering. I ha
 
 ---
 
-## 🏆 Featured Projects
 
-### 🔹 [Autonomous Navigation Using ROS2 and Reinforcement Learning](https://github.com/reiniscimurs/DRL-robot-navigation)
-An advanced robot navigation project using **TD3** reinforcement learning with **ROS2**, **RViz**, and **Gazebo** for simulation. This project integrates **reinforcement learning** to navigate autonomously in dynamic environments.
-
-### 🔹 AI-Powered Defect Detection (Didamind Internship)
-Worked on a real-time **computer vision system** to detect angle and gusset objects inside boxes on a conveyor belt for an industrial client. The system leverages AI to replace manual inspection and ensure high accuracy and reliability.
-
-### 🔹 AI in Security Systems (All Points Smart Solutions Internship)
-Collaborated on **AI-driven security solutions** for the Jordan Public Security Directorate, enhancing automated monitoring, ANPR systems, and surveillance analytics.
-
----
-
-## 📚 Learning & Growth
-
-- **Currently Learning:** Advanced machine learning on GCP Model Garden, Vertex AI, and Generative AI techniques
-- **Preparing For:** Deepening my expertise in MongoDB and reinforcement learning techniques
-
----
-
-## 🏆 Featured Projects
-
-### 🔹 [Autonomous Navigation Using ROS2 and Reinforcement Learning](https://github.com/reiniscimurs/DRL-robot-navigation)
-An advanced robot navigation project using **TD3** reinforcement learning with **ROS2**, **RViz**, and **Gazebo** for simulation. This project integrates **reinforcement learning** to navigate autonomously in dynamic environments.
-
-### 🔹 AI-Powered Defect Detection (Didamind Internship)
-Worked on a real-time **computer vision system** to detect angle and gusset objects inside boxes on a conveyor belt for an industrial client. The system leverages AI to replace manual inspection and ensure high accuracy and reliability.
-
-### 🔹 AI in Security Systems (All Points Smart Solutions Internship)
-Collaborated on **AI-driven security solutions** for the Jordan Public Security Directorate, enhancing automated monitoring, ANPR systems, and surveillance analytics.
-
----
-
-## 📊 GitHub Stats
-
-![Dhieddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiabarhoumi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiabarhoumi&layout=compact&theme=radical)
 
 ---
 
@@ -136,10 +96,5 @@ I’m passionate about AI's potential to transform industries – from security 
 
 ---
 
-## 🌱 Fun Fact
-
-When I'm not diving into AI, I enjoy exploring new tech trends, building side projects, and envisioning how AI can be a force for good.
-
----
 
 Thank you for stopping by! Let's connect and create impactful AI solutions together.
