@@ -1,18 +1,5 @@
 # 👋 Hello, I'm Dhieddine Barhoumi
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Dhieddine%20Barhoumi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barhoumi-dhieddine/)](https://www.linkedin.com/in/barhoumi-dhieddine/)
-[![Gmail Badge](https://img.shields.io/badge/-Dhieddine_Barhoumi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhieddine.barhoumi@insat.ucar.tn)](mailto:dhieddine.barhoumi@insat.ucar.tn)
-
----
-
-I'm an AI and machine learning enthusiast with a background in engineering. I have hands-on experience in machine learning, autonomous systems, and AI-driven security solutions. Currently, I’m completing my engineering studies and working on several projects that showcase my passion and technical expertise in AI and ML. I enjoy building intelligent systems that solve real-world problems and am always looking to learn, collaborate, and innovate!
-
----
-
-## 🌐 Connect With Me
-
-- 💼 [LinkedIn]((https://www.linkedin.com/in/barhoumi-dhieddine/))
-- 📧 [Email](mailto:dhieddine.barhoumi@insat.ucar.tn)
 
 ---
 
@@ -21,6 +8,12 @@ I'm an AI and machine learning enthusiast with a background in engineering. I ha
 - **👨‍🎓 Engineering Student**
 - **🔬 AI Researcher & Developer**
 - **🔍 Passionate about Autonomous Systems, AI, and Machine Learning**
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Dhieddine%20Barhoumi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barhoumi-dhieddine/)](https://www.linkedin.com/in/barhoumi-dhieddine/)
+[![Gmail Badge](https://img.shields.io/badge/-Dhieddine_Barhoumi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhieddine.barhoumi@insat.ucar.tn)](mailto:dhieddine.barhoumi@insat.ucar.tn)
 
 ---
 
